@@ -1,1 +1,3 @@
-test file
+test file. Ravi just edited this after Vishal forked the file.
+
+These changes may auto-merge.
